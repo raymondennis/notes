@@ -7,6 +7,6 @@ these are **setup notes** for my pc
 
 >learning markdown
 
-~~typo~~
+Fixed your typo here!
 
 
